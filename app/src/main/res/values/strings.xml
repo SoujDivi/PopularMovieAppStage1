@@ -5,5 +5,5 @@
     <string name="action_settings">Settings</string>
     <string name="sort_by_popular">Most Popular</string>
     <string name="sort_by_rate">Highest Rated</string>
-    <string name="api_key">6682498650772724ef3528371f9a8a87</string>
+    <string name="api_key">User API Key</string>
 </resources>
