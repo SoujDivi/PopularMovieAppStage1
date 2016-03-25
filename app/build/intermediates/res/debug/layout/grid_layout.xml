@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<GridView xmlns:android="http://schemas.android.com/apk/res/android"
+    android:id="@+id/grid_view"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:numColumns="3"
+    android:stretchMode="columnWidth"
+    android:padding="4dp"
+
+    android:gravity="center"
+    android:verticalSpacing="4dp"
+    android:horizontalSpacing="4dp"
+   >
+
+</GridView>
+<!-- From: file:/home/souji/Downloads/MoiveApp/app/src/main/res/layout/grid_layout.xml -->
